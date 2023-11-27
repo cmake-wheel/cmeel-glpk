@@ -14,6 +14,7 @@ homepage = "https://github.com/cmake-wheel/cmeel-glpk"
 repository = "https://github.com/cmake-wheel/cmeel-glpk.git"
 
 [tool.cmeel]
+build-number = 0
 has-sitelib = false
 run-tests = false
 
