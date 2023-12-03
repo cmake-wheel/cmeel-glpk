@@ -12,6 +12,7 @@ version = "5.0"
 [project.urls]
 homepage = "https://github.com/cmake-wheel/cmeel-glpk"
 repository = "https://github.com/cmake-wheel/cmeel-glpk.git"
+upstream = "https://www.gnu.org/software/glpk/"
 
 [tool.cmeel]
 build-number = 0
